@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working with ...
 
     <img src="https://img.shields.io/badge/python-blue?style=flat-square&logo=Python&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/PyTorch-red?style=flat-square&logo=Python&logoColor=white"/></a>
