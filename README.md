@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://abstracted-conifer-adb.notion.site/Mathematics-CS-83cb2452e4344d2b9a11f8416341994e"><img src="https://img.shields.io/badge/study-green?style=flat-square&logo=#00148C&logoColor=white&link="https://abstracted-conifer-adb.notion.site/Mathematics-CS-83cb2452e4344d2b9a11f8416341994e"/></a>&nbsp
+
 <!--
 **100jy/100jy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
