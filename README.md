@@ -1,7 +1,23 @@
 ### Hi there 👋
 
 
-<a href="https://abstracted-conifer-adb.notion.site/Mathematics-CS-83cb2452e4344d2b9a11f8416341994e"><img src="https://img.shields.io/badge/blog-brightgreen?style=flat-square&logo=Notion&logoColor=white&link=https://abstracted-conifer-adb.notion.site/Mathematics-CS-83cb2452e4344d2b9a11f8416341994e"/></a> 
+- 🔭 I’m currently working on ...
+
+    <img src="https://img.shields.io/badge/python-blue?style=flat-square&logo=Python&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/PyTorch-red?style=flat-square&logo=Python&logoColor=white"/></a>
+    
+
+
+- 🌱 I’m currently learning ...
+    - Math & CS
+    
+      <a href="https://abstracted-conifer-adb.notion.site/Mathematics-CS-83cb2452e4344d2b9a11f8416341994e"><img src="https://img.shields.io/badge/blog-black?style=flat-square&logo=Notion&logoColor=white&link=https://abstracted-conifer-adb.notion.site/Mathematics-CS-83cb2452e4344d2b9a11f8416341994e"/></a> 
+
+
+- 📫 How to reach me: ...
+
+    <a href="mailto:wnduq08217@naver.com"><img src="https://img.shields.io/badge/naver-green?style=flat-square&logo=Naver&logoColor=white&link=mailto:wnduq08217@Naver.com"/></a> 
+    <a href="mailto:xorms08217@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xorms08217@gmail.com"/></a> 
 
 
 <!--
