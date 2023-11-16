@@ -6,7 +6,7 @@
 
 - **In the Learning Lane 🚀:**
   - Delving into the beauty of...
-    - Math & CS (**Check out what I'm learning!**)
+    - Math & CS ([**Check out what I'm learning!**](https://jy100space.notion.site))
 
 - **Tech Stack 🛠️:**
   ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
