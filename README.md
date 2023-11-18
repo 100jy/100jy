@@ -28,13 +28,15 @@
     [![Naver](https://img.shields.io/badge/naver-green?style=flat-square&logo=Naver&logoColor=white)](mailto:wnduq08217@naver.com) 
     [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:xorms08217@gmail.com)
 
----
-**📄 Resume:** [Check out my resume here!](https://github.com/100jy/resume)
 
----
 ### ✏️ Math & CS Explorer
 
 Embark on a journey through my thoughts on [My Notion](https://jy100space.notion.site). Dive into the world of possibilities where math and computer science intersect.
 
+
+---
+**📄 Resume:** [Check out my resume here!](https://github.com/100jy/resume)
+
+---
 
 **Pro Tip:** Keep exploring, stay curious, and never shy away from the unknown! Feel free to connect or share your own discoveries. Let's learn together! 🌟
